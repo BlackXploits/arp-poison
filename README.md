@@ -1,9 +1,8 @@
 ARP-Poison is tools for ARP Spoofing attack
 
 ### Requirements
-* Scapy
 ```
-pip install scapy
+pip install -r requirements.txt
 ```
 
 ## Usage
